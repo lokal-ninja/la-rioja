@@ -1,0 +1,1 @@
+La Rioja es una comunidad autónoma de España situada en el norte de la península ibérica. Su estatus administrativo está definido en el artículo primero de su estatuto de autonomía como identidad histórica. Abarca parte del valle del Ebro en su zona septentrional y del sistema Ibérico en el sur. (Wikipedia)
