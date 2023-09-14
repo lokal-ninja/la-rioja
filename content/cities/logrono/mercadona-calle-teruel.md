@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /logrono/mercadona/
+url: /logrono/mercadona-calle-teruel/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
-url: /logrono/alcampo/
+url: /logrono/alcampo-calle-de-la-ciguena/
 shop: supermercado
 ---

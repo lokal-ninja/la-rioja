@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
-url: /logrono/carrefour-express/
+url: /logrono/carrefour-express-calle-oeste/
 shop: comodidad
 ---

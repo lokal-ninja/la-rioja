@@ -1,5 +1,5 @@
 ---
 title: "Óptica Vision&Co"
-url: /logrono/optica-visionundco/
+url: /logrono/optica-visionyco/
 shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rasgos Barber & Tattoo"
-url: /logrono/rasgos-barber-und-tattoo/
+url: /logrono/rasgos-barber-y-tattoo/
 shop: peluquería
 ---
