@@ -1,5 +1,5 @@
 ---
-title: "CICLOS JUANI"
+title: "Ciclos Juani"
 url: /calahorra/ciclos-juani/
 shop: bicicleta
 ---
