@@ -1,6 +1,6 @@
 ---
 title: Haro
 url: /haro/
-latitude: 42.576
-longitude: -2.854
+latitude: 42.562
+longitude: -2.838
 ---
