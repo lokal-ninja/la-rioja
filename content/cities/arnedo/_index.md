@@ -1,6 +1,6 @@
 ---
 title: Arnedo
 url: /arnedo/
-latitude: 42.234
-longitude: -2.091
+latitude: 42.236
+longitude: -2.088
 ---
