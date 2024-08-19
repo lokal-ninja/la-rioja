@@ -1,6 +1,6 @@
 ---
 title: Calahorra
 url: /calahorra/
-latitude: 42.303
-longitude: -1.965
+latitude: 42.306
+longitude: -1.969
 ---
