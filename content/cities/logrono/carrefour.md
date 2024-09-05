@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /logrono/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

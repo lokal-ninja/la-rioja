@@ -1,5 +1,5 @@
 ---
 title: "SEL"
 url: /logrono/sel/
-shop: radiotecnia
+shop: Radiotechnik
 ---

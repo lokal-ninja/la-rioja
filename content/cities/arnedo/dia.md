@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /arnedo/dia/
-shop: supermercado
+shop: Supermarkt
 ---

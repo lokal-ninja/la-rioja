@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
 url: /ezcaray/lupa/
-shop: supermercado
+shop: Supermarkt
 ---

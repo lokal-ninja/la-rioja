@@ -1,5 +1,5 @@
 ---
 title: "Proquil"
 url: /haro/proquil/
-shop: general
+shop: Allgemein
 ---

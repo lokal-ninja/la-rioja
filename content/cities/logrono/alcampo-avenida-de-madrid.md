@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /logrono/alcampo-avenida-de-madrid/
-shop: supermercado
+shop: Supermarkt
 ---

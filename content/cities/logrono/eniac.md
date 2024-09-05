@@ -1,5 +1,5 @@
 ---
 title: "eniac"
 url: /logrono/eniac/
-shop: ordenador
+shop: Computer
 ---

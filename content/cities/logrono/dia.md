@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /logrono/dia/
-shop: supermercado
+shop: Supermarkt
 ---

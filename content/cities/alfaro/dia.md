@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /alfaro/dia/
-shop: supermercado
+shop: Supermarkt
 ---

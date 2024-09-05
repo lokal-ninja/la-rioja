@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
 url: /logrono/lupa/
-shop: supermercado
+shop: Supermarkt
 ---

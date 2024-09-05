@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /logrono/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

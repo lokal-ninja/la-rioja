@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /calahorra/dia/
-shop: supermercado
+shop: Supermarkt
 ---

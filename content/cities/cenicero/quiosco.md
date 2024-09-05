@@ -1,5 +1,5 @@
 ---
 title: "Quiosco"
 url: /cenicero/quiosco/
-shop: quiosco
+shop: Kiosk
 ---

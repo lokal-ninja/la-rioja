@@ -1,5 +1,5 @@
 ---
 title: "Cuñasa"
 url: /alfaro/cunasa/
-shop: hágalo usted mismo
+shop: Baumarkt
 ---
