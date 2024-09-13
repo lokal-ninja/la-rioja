@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /logrono/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

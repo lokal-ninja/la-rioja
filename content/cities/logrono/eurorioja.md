@@ -1,5 +1,5 @@
 ---
 title: "Eurorioja"
 url: /logrono/eurorioja/
-shop: Reisebüro
+shop: agencia de viajes
 ---

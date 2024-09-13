@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Eguizábal"
 url: /arnedo/ciclos-eguizabal/
-shop: Fahrrad
+shop: bicicleta
 ---

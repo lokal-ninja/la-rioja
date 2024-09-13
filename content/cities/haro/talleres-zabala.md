@@ -1,5 +1,5 @@
 ---
 title: "Talleres Zabala"
 url: /haro/talleres-zabala/
-shop: Autohaus
+shop: coche
 ---

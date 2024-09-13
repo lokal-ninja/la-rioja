@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
 url: /lardero/lupa/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Almacén"
 url: /arnedo/el-almacen/
-shop: Schuhe
+shop: zapatos
 ---

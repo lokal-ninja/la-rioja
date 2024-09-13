@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
 url: /arnedo/lupa/
-shop: Supermarkt
+shop: supermercado
 ---

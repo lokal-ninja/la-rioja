@@ -1,5 +1,5 @@
 ---
 title: "Riojatrek"
 url: /logrono/riojatrek/
-shop: Reisebüro
+shop: agencia de viajes
 ---

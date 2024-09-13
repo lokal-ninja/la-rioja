@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
 url: /fuenmayor/lupa/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /logrono/alcampo/
-shop: Supermarkt
+shop: supermercado
 ---

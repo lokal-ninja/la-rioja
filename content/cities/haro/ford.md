@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /haro/ford/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---
