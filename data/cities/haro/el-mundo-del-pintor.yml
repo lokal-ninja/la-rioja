@@ -1,11 +1,11 @@
 id: 1250496331
-type: way
+type: node
 latitude: 42.57041
 longitude: -2.84074
 postcode: "01330"
 city: Haro
-street: "Avenida de la Diputación"
-housenumber: 
+street: Avenida de la Diputación
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

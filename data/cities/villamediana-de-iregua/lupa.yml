@@ -1,11 +1,11 @@
 id: 1271383051
-type: way
+type: node
 latitude: 42.44702
 longitude: -2.41727
 postcode: "26142"
 city: Villamediana de Iregua
-street: "Avenida de los Caballeros Templarios"
-housenumber: 
+street: Avenida de los Caballeros Templarios
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

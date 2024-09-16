@@ -4,8 +4,8 @@ latitude: 42.45995
 longitude: -2.45828
 postcode: "26005"
 city: Logroño
-street: "Calle Duques de Nájera"
-housenumber: 49
+street: Calle Duques de Nájera
+housenumber: "49"
 phone: "+34913687857"
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.alcampo.es/empresa/tienda/duques-de-najera"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.alcampo.es/empresa/tienda/duques-de-najera

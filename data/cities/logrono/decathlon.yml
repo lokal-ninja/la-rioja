@@ -1,11 +1,11 @@
 id: 95465448
-type: way
+type: node
 latitude: 42.45328
 longitude: -2.47359
 postcode: "26005"
 city: Logroño
-street: "Calle de Prado Viejo"
-housenumber: 68
+street: Calle de Prado Viejo
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 09:30-22:15"
-website: "https://www.decathlon.es"
+opening_hours: Mo-Sa 09:30-22:15
+website: https://www.decathlon.es

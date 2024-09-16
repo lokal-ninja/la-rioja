@@ -1,11 +1,11 @@
 id: 726576240
-type: way
+type: node
 latitude: 42.4874
 longitude: -2.42758
 postcode: "26009"
 city: Logroño
-street: "Avenida del Puntido"
-housenumber: 22
+street: Avenida del Puntido
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

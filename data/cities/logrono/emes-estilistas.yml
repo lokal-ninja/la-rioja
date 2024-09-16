@@ -4,8 +4,8 @@ latitude: 42.46252
 longitude: -2.44019
 postcode: "26003"
 city: Logroño
-street: "Avenida de Colón"
-housenumber: 16
-phone: "+34 941 23 35 72"
-opening_hours: "Mo-Th 09:00-13:30,16:30-19:00; Fr 09:00-19:00; Sa 09:00-13:30"
-website: "https://www.emesestilistas.com/"
+street: Avenida de Colón
+housenumber: "16"
+phone: +34 941 23 35 72
+opening_hours: Mo-Th 09:00-13:30,16:30-19:00; Fr 09:00-19:00; Sa 09:00-13:30
+website: https://www.emesestilistas.com/

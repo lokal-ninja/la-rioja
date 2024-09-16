@@ -1,11 +1,11 @@
 id: 258159179
-type: way
+type: node
 latitude: 42.46213
 longitude: -2.42109
 postcode: "26006"
 city: Logroño
-street: "Calle Lérida"
-housenumber: 4
-phone: "+34 941 279 300"
+street: Calle Lérida
+housenumber: "4"
+phone: +34 941 279 300
 opening_hours: ""
-website: "https://www.mediamarkt.es/"
+website: https://www.mediamarkt.es/

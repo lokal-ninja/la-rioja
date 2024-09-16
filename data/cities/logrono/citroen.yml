@@ -1,11 +1,11 @@
 id: 240859526
-type: way
+type: node
 latitude: 42.45526
 longitude: -2.4294
 postcode: ""
 city: Logroño
-street: "Avenida de Lope de Vega"
-housenumber: 
+street: Avenida de Lope de Vega
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

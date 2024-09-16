@@ -1,11 +1,11 @@
 id: 1290254402
-type: way
+type: node
 latitude: 42.46038
 longitude: -2.42317
 postcode: "26006"
 city: Logroño
-street: "Calle Teruel"
-housenumber: 5
+street: Calle Teruel
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

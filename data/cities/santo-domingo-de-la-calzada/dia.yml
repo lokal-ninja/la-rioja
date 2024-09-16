@@ -1,11 +1,11 @@
 id: 90908495
-type: way
+type: node
 latitude: 42.43969
 longitude: -2.94956
 postcode: "26250"
 city: Santo Domingo de la Calzada
-street: "Avenida Cuerpo de Obras Publicas"
+street: Avenida Cuerpo de Obras Publicas
 housenumber: 9-11
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.dia.es"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.dia.es

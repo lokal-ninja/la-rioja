@@ -1,11 +1,11 @@
 id: 205204717
-type: way
+type: node
 latitude: 42.4533
 longitude: -2.46455
 postcode: "26007"
 city: Logroño
-street: "Calle Clavijo"
-housenumber: 63
+street: Calle Clavijo
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.dia.es"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.dia.es

@@ -1,11 +1,11 @@
 id: 1204608935
-type: way
+type: node
 latitude: 42.46117
 longitude: -2.47297
 postcode: "26007"
 city: Logroño
-street: "Avenida de Burgos"
-housenumber: 70
+street: Avenida de Burgos
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

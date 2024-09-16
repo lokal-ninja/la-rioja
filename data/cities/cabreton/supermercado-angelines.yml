@@ -1,11 +1,11 @@
 id: 1281208555
-type: way
+type: node
 latitude: 41.99696
 longitude: -1.90539
 postcode: "26529"
 city: Cabretón
-street: "Calle Ojillo"
-housenumber: 30
+street: Calle Ojillo
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

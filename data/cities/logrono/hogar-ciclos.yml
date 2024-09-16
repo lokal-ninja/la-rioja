@@ -4,8 +4,8 @@ latitude: 42.45989
 longitude: -2.44608
 postcode: "26002"
 city: Logroño
-street: "Calle del General Vara de Rey"
-housenumber: 51
-phone: "+34 941 26 12 36"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30"
+street: Calle del General Vara de Rey
+housenumber: "51"
+phone: +34 941 26 12 36
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30
 website: ""

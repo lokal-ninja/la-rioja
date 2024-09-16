@@ -4,8 +4,8 @@ latitude: 42.46575
 longitude: -2.45318
 postcode: "26005"
 city: Logroño
-street: "Calle Marqués de Murrieta"
-housenumber: 16
+street: Calle Marqués de Murrieta
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:15-21:30
+website: https://www.mercadona.es

@@ -1,11 +1,11 @@
 id: 1264580153
-type: way
+type: node
 latitude: 42.5692
 longitude: -2.83994
 postcode: "01330"
 city: Haro
-street: "Calle la Indústria"
-housenumber: 
+street: Calle la Indústria
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

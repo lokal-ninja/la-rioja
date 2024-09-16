@@ -1,11 +1,11 @@
 id: 95693658
-type: way
+type: node
 latitude: 42.48171
 longitude: -2.64199
 postcode: "26350"
 city: Cenicero
-street: "Plaza de España"
-housenumber: 
+street: Plaza de España
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""
