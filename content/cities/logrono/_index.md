@@ -1,6 +1,6 @@
 ---
 title: Logroño
 url: /logrono/
-latitude: 42.464
-longitude: -2.42
+latitude: 42.466
+longitude: -2.455
 ---
