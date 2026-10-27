@@ -1,6 +1,6 @@
 ---
 title: Cabretón
 url: /cabreton/
-latitude: 41.997
-longitude: -1.905
+latitude: 41.996
+longitude: -1.906
 ---
